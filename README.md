@@ -25,4 +25,4 @@ We use a Kafka producer to produce incoming traffic, a consumer to read the traf
 ![Screenshot 2024-06-15 at 4 53 44 PM](https://github.com/Tahir001/kafka-airflow-playground/assets/51174301/0be426d3-4c65-4740-8b0c-b7ff83978b9e)
 
 6. Then we can connect to our postgres and see the data is actually there:
-![Uploading Screenshot 2024-06-15 at 4.54.27 PM.png…]()
+<img width="512" alt="Screenshot 2024-06-15 at 4 59 18 PM" src="https://github.com/Tahir001/kafka-airflow-playground/assets/51174301/eecf3f69-d8e7-48ea-855e-e5f1993268f8">
