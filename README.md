@@ -1,5 +1,6 @@
 # kafka-aiflow-playground
-A small pet project to play around with Kafka and Airflow
+A small pet project to play around with Kafka and Airflow. 
+Some notes on the topic can be found here: https://tahirm.notion.site/Apache-Kafka-5579b28738ab423db41891dfaae8b682?pvs=4
 
 # Technical Requirements 
 You will need: Python3, Postgres, Airflow, Docker, Docker-compose, Kafka, Kafka-python and Zookeeper.
